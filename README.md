@@ -60,7 +60,7 @@ git clone https://github.com/stanghee/dino-image-retrieval.git
 cd dino-image-retrieval
 ```
 
-2. Install dependencies (Use Python 3.12+):
+2. Install dependencies (Use Python 3.12.9):
 
 ```bash
 pip install -r requirements.txt
